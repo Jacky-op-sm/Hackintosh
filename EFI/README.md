@@ -1,2 +1,2 @@
 # Hackintosh
-## backup my FEI setting.
+## backup my EFI setting.
